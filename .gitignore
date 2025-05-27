@@ -1,0 +1,7 @@
+.env
+*.pem
+*.pfx
+*.key
+*.crt
+*.enc
+sspackage/*.json
